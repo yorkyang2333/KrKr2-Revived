@@ -1,7 +1,7 @@
-# KrKr2-Revived-bak
+# KrKr2-Revived
 
-This repository is deprecated and no longer actively maintained. 
+This repository has been deprecated and is no longer actively maintained.
 
-Further changes will be made at [KYoiRyi/AetherKiri](https://github.com/KYoiRyi/AetherKiri) in cooperation with [@KYoiRyi](https://github.com/KYoiRyi). 
+Please use **[AetherKiri/AetherKiri](https://github.com/AetherKiri/AetherKiri)** instead.
 
-To view my commit history, [checkout to other branches](https://github.com/yorkyang2333/KrKr2-Revived-bak/branches).
+If you're looking for my previous work or contribution history, you can find it by checking out the other branches of this repository.
